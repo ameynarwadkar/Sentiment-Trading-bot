@@ -1,8 +1,5 @@
 # MLTrader Strategy using Sentiment Analysis for Trading
 
-Title: MLTrader Strategy using Sentiment Analysis for Trading
-
-Introduction:
 The provided Python code implements an automated trading strategy called MLTrader, which employs 
 sentiment analysis of news articles to make trading decisions. It utilizes the Alpaca brokerage 
 for executing trades and Yahoo finance data for backtesting. This document outlines the 
